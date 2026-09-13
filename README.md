@@ -33,9 +33,8 @@
 
 ## 👨‍💻 About Me
 
-I'm a **BCA student and aspiring Software Engineer** passionate about building software, solving programming problems, and continuously improving my technical skills.
-
-* 🎓 Currently pursuing **BCA**
+ aspiring Software Engineer passionate about building software, solving programming problems, and continuously improving my technical skills.
+ 
 * 💻 Interested in **Software Engineering & Full-Stack Development**
 * ☁️ Exploring **Cloud Computing & AWS**
 * 🐍 Learning  **Python**
