@@ -42,7 +42,6 @@
 * 🗄️ Working with **SQL & Databases**
 * 🔥 Believer in consistent learning and improvement
 
-> **"Don't compete with others. Compete with who you were yesterday."**
 
 ---
 
