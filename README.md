@@ -262,79 +262,13 @@ AWS / Cloud                  █████░░░░░░  45%
 
 <!-- ========================= -->
 
-## 🚀 Featured Projects
+  
 
-<table>
-<tr>
+ 
+ 
 
-<td width="50%">
-
-### 💰 Customer Intelligence & Revenue Optimization Engine
-
-📊 An analytics-focused project designed to explore customer behavior, revenue patterns, and business insights.
-
-**Tech:** `Excel` `Data Analysis` `Dashboard`
-
-</td>
-
-<td width="50%">
-
-### 🎓 College Management System
-
-🏫 A planned full-stack application for managing students, courses, attendance, results, and academic information.
-
-**Tech:** `HTML` `CSS` `JavaScript` `Python` `SQL`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🎮 Python Game Projects
-
-🎮 Small interactive games created while learning Python programming and game development concepts.
-
-**Tech:** `Python` `Pygame`
-
-</td>
-
-<td width="50%">
-
-### 🧠 DSA Practice
-
-💻 A growing collection of data structures and algorithm implementations and problem-solving practice.
-
-**Tech:** `C` `Python` `Java`
-
-</td>
-
-</tr>
-</table>
-
----
-
-<!-- ========================= -->
-
-<!--       FUTURE PROJECTS      -->
-
-<!-- ========================= -->
-
-## 🔮 Future Projects
-
-I'm continuously working toward building larger, real-world applications.
-
-| Project                         | Description                                    | Planned Stack          |
-| ------------------------------- | ---------------------------------------------- | ---------------------- |
-| 🏫 College Management System    | Complete academic management platform          | React + Node + SQL     |
-| 🤖 AI Study Assistant           | AI-powered study and question-answering tool   | Python + AI            |
-| ☁️ Cloud File Manager           | Cloud-based file management system             | AWS + Python           |
-| 💼 Job Preparation Platform     | DSA, coding and interview preparation platform | React + Backend        |
-| 📊 Business Analytics Dashboard | Interactive business intelligence platform     | Python + SQL           |
-| 🛒 E-Commerce Platform          | Full-stack online shopping application         | React + Node + MongoDB |
-
+ 
+ 
 ---
 
 <!-- ========================= -->
