@@ -37,13 +37,10 @@ I'm a **BCA student and aspiring Software Engineer** passionate about building s
 
 * 🎓 Currently pursuing **BCA**
 * 💻 Interested in **Software Engineering & Full-Stack Development**
-* 🧠 Currently focusing on **DSA, Problem Solving & Programming**
 * ☁️ Exploring **Cloud Computing & AWS**
-* 🐍 Learning and building projects with **Python**
-* ☕ Practicing **Java**
+* 🐍 Learning  **Python**
+* ☕ learning **Java**
 * 🗄️ Working with **SQL & Databases**
-* 🚀 Building projects to strengthen real-world development skills
-* 🎯 Goal: Become a strong **Software Engineer at a product-based company**
 * 🔥 Believer in consistent learning and improvement
 
 > **"Don't compete with others. Compete with who you were yesterday."**
