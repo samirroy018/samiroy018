@@ -294,29 +294,7 @@ AWS / Cloud                  █████░░░░░░  45%
 > Replace `YOUR-BEST-REPOSITORY` with the name of your best public repository.
 
 ---
-
-<!-- ========================= -->
-
-<!--       CODING GOALS        -->
-
-<!-- ========================= -->
-
-## 🎯 My 2026–2027 Goals
-
-* [ ] Master **DSA & Problem Solving**
-* [ ] Solve **300+ coding problems**
-* [ ] Build **10+ real-world projects**
-* [ ] Build and deploy full-stack applications
-* [ ] Strengthen **Java & Python**
-* [ ] Learn **System Design fundamentals**
-* [ ] Learn **AWS & Cloud Computing**
-* [ ] Contribute to **Open Source**
-* [ ] Participate in **Hackathons**
-* [ ] Build a strong **GitHub portfolio**
-* [ ] Prepare for **product-based company interviews**
-* [ ] Land my first **Software Engineering opportunity** 🚀
-
----
+ 
 
 <!-- ========================= -->
 
