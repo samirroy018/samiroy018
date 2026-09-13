@@ -52,18 +52,7 @@
 
 <!-- ========================= -->
 
-## 🎯 Currently Learning
-
-```text
-DSA & Problem Solving       █████████░░  80%
-C Programming               █████████░░  80%
-Python                      ████████░░░  70%
-Java                        ██████░░░░░  55%
-SQL & Databases             ███████░░░░  65%
-Web Development             ███████░░░░  65%
-Git & GitHub                 ████████░░░  70%
-AWS / Cloud                  █████░░░░░░  45%
-```
+                    
 
 ---
 
